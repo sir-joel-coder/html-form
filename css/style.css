@@ -4,7 +4,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    /* font-family: 'Open Sans', sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     
 }
 body {
@@ -15,7 +15,7 @@ body {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     display: flex;
-    height: 100%;
+    min-height: 100%;
     background-color: #FE7B72ff;
     padding: 5rem ;
     align-items: center;
